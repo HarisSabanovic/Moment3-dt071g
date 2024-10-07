@@ -1,0 +1,14 @@
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\bin\Debug\net8.0\Moment3.exe
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\bin\Debug\net8.0\Moment3.deps.json
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\bin\Debug\net8.0\Moment3.runtimeconfig.json
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\bin\Debug\net8.0\Moment3.dll
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\bin\Debug\net8.0\Moment3.pdb
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.AssemblyInfoInputs.cache
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.AssemblyInfo.cs
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.csproj.CoreCompileInputs.cache
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.dll
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\refint\Moment3.dll
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.pdb
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\Moment3.genruntimeconfig.cache
+C:\Users\haris\OneDrive\Skrivbord\C#.NET\Moment3\Moment3\obj\Debug\net8.0\ref\Moment3.dll
