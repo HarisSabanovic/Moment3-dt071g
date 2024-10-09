@@ -29,7 +29,7 @@ namespace Guestbook
 
             //ifall användarens input inte är tom läggs inlägget till och sparas
             //Annars påminner användaren att input inte får vara tom.
-            if(!String.IsNullOrEmpty(guestName) || !String.IsNullOrEmpty(guestPost))
+            if(!String.IsNullOrEmpty(guestName) && !String.IsNullOrEmpty(guestPost))
             {
                 guestList.Add(new Guest(
                 id = guestList.Count,
@@ -39,7 +39,7 @@ namespace Guestbook
              SaveGuestbook();
             } else
             {
-                Console.WriteLine("You need to input a value. Press any key to continue");
+                Console.WriteLine("You need to input your name and your post. Press any key to continue");
                 Console.ReadKey();
             }
         }

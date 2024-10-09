@@ -64,7 +64,7 @@ namespace Guestbook {
             {
                 Manager.deleteGuestPost();
                 continue;
-            } else if (userChoice == "X")
+            } else if (userChoice.ToLower() == "x")
             {
                 break;
             } else {
